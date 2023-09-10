@@ -1,0 +1,15 @@
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.exe
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.deps.json
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.runtimeconfig.json
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.dll
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.pdb
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.csproj.AssemblyReference.cache
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.AssemblyInfoInputs.cache
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.AssemblyInfo.cs
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.dll
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\refint\ConsoleApp9.dll
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.pdb
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.genruntimeconfig.cache
+D:\EXE\WORK\BIANYI\VisualStudio\Projects\CODE\LEETcode\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ref\ConsoleApp9.dll
